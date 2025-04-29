@@ -24,10 +24,9 @@ A sleek, aesthetic weather application with a modern glassmorphism-inspired UI, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Avisav24/weather-app.git
 cd weather-app
-
-🔐 API Notes
+```
+# 🔐 API Notes
 Weather Data: Retrieved using https://api.openweathermap.org/data/2.5/weather
 
 Images: Background images loaded via Unsplash based on city query
